@@ -1,0 +1,35 @@
+_repo: Elsie-s-GirlhoodA-Sequel-to--Elsie-Dinsmore--and--Elsie-s-Holidays-at-Roselands-_9963
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Finley, Martha
+    aliases:
+    - Cousin Martha
+    - Farquharson, Martha
+    birthdate: 1828
+    deathdate: 1909
+    gutenberg_agent_id: '2044'
+    url: http://www.gutenberg.org/2009/agents/2044
+    wikipedia: http://www.readseries.com/auth-dm/finley1.html
+description: ''
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2006-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9963'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dinsmore, Elsie (Fictitious character) -- Juvenile fiction'
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcsh 'Families -- Juvenile fiction'
+- !lcsh 'Religious fiction'
+- !lcc 'PZ'
+- !lcsh 'Domestic fiction'
+- GITenberg
+title: 'Elsie''s Girlhood
+
+  A Sequel to "Elsie Dinsmore" and "Elsie''s Holidays at Roselands"'
+url: http://www.gutenberg.org/ebooks/9963
